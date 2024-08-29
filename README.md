@@ -7,8 +7,10 @@ then this cd discord
 then python main.py
 
 
+‮
+‮
 
-
+‮
 
 i need to add stuff 
 
